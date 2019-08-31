@@ -17,4 +17,5 @@ dependencies {
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
 	compile group: 'org.aoju', name: 'bus-validate', version: '3.1.5'
 	compile group: 'org.aoju', name: 'bus-spring', version: '3.1.5'
+	compile group: 'org.aspectj', name: 'aspectjrt', version: '1.9.4'
 }
