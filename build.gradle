@@ -15,4 +15,6 @@ repositories {
 dependencies {
 	compile 'org.springframework.boot:spring-boot-starter'
 	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	compile group: 'org.aoju', name: 'bus-validate', version: '3.1.5'
+
 }
